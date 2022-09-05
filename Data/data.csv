@@ -1,0 +1,51 @@
+Item,Time,Value,Category 1,Category 2,Item Requirement 1,Item Requirement 2,Item Requirement 3,Item 1,Item 2,Item 3
+Potion,4,30,Concoctions,None,Island Palm Leaf,Islewort,None,2,2,0
+Firesand,4,30,Concoctions,Unburied Treasures,Island Sand,Island Limestone,Islewort,2,1,1
+Grilled Clam,4,30,Foodstuffs,Marine Merchandise,Island Clam,Island Laver,None,2,2,0
+Necklace,4,30,Accessories,Woodworks,Island Branch,Island Vine,None,3,1,0
+Sauerkraut,4,44,Preserved Food,None,Island Cabbage,Island Rock Salt,None,1,3,0
+Baked Pumpkin,4,44,Foodstuffs,None,Island Pumpkin,Island Sap,None,1,3,0
+Culinary Knife,4,48,Sundries,Creature Creations,Sanctuary Claw,Island Palm Log,None,1,3,0
+Brush,4,48,Sundries,Woodworks,Sanctuary Fur,Island Palm Log,None,1,3,0
+Boiled Egg,4,48,Foodstuffs,Creature Creations,Sanctuary Egg,Island Laver,None,1,3,0
+Earrings,4,52,Accessories,Creature Creations,Sanctuary Fang,Island Fang,None,1,3,0
+Butter,4,52,Ingredients,Creature Creations,Sanctuary Milk,Island Rock Salt,None,1,3,0
+Parsnip salad,4,57,Foodstuffs,None,Island Parsnip,Islewort,Island Sap,2,1,1
+Rope,4,43,Sundries,Textiles,Island Hemp,Islewort,Island Vine,2,1,1
+Squid Ink,4,43,Ingredients,Marine Merchandise,Island Squid,Island Rock Salt,None,2,2,0
+Tomato Relish,4,62,Ingredients,None,Island Tomato,Island Sugarcane,Islewort,2,1,1
+Corn Flakes,4,62,Preserved Food,None,Island Corn,Island Sugarcane,None,2,2,0
+Wooden Chair,6,50,Furnishings,Woodworks,Island Log,Island Vine,None,4,2,0
+Coral Ring,6,50,Accessories,Marine Merchandise,Island Coral,Island Vine,None,3,3,0
+Barbut,6,50,Attire,Metalworks,Island Copper Ore,Island Sand,None,3,3,0
+Macuahuitl,6,50,Arms,Woodworks,Island Palm Log,Island Stone,None,3,3,0
+Tunic,6,86,Attire,Textiles,Sanctuary Fleece,Island Vine,None,2,4,0
+Hora,6,86,Arms,Creature Creations,Sanctuary Carapace,Island Stone,None,2,4,0
+Brick Counter,6,57,Furnishings,Unburied Treasures,Island Clay,Island Limestone,Island Palm Log,2,2,2
+Sweet Popoto,6,86,Confections,None,Island Popoto,Sanctuary Milk,Island Sap,2,1,3
+Caramels,6,97,Confections,None,Island Sugarcane,Sanctuary Milk,None,4,2,0
+Ribbon,6,64,Accessories,Textiles,Island Cotton Boll,Island Copper Ore,Island Vine,2,2,2
+Cavalier's Hat,6,97,Attire,Textiles,Sanctuary Feather,Island Cotton Boll,Island Hemp,2,2,2
+Horn,6,97,Sundries,Creature Creations,Sanctuary Horn,Island Clay,Island Hemp,2,2,2
+Salt Cod,6,64,Preserved Food,Marine Merchandise,Islefish,Island Rock Salt,None,4,2,0
+Essential Draught,6,64,Concoctions,Marine Merchandise,Island Jellyfish,Island Palm Leaf,Island Laver,2,2,2
+Jam,6,93,Ingredients,None,Isleberry,Island Sugarcane,Island Sap,3,2,1
+Onion Soup,6,93,Foodstuffs,None,Island Onion,Island Rock Salt,Islewort,3,2,1
+Fish Pie,6,93,Confections,Marine Merchandise,Island Wheat,Islefish,Island Sugarcane,3,2,1
+Vegetable Juice,6,93,Concoctions,None,Island Cabbage,Islewort,Island Laver,3,2,1
+Pumpkin Pudding,6,93,Confections,None,Island Pumpkin,Sanctuary Egg,Sanctuary Milk,3,1,1
+Sheepfluff Rug,6,108,Furnishings,Creature Creations,Sanctuary Fleece,Island Cotton Boll,Island Hemp,3,2,1
+Garden Scythe,6,108,Sundries,Metalworks,Sanctuary Claw,Island Iron Ore,Island Palm Log,3,2,1
+Bronze Sheep,8,76,Furnishings,Metalworks,Island Tinsand,Island Copper Ore,Island log,3,3,2
+Growth Formula,8,163,Concoctions,None,Island Alyssum,Islewort,Island Branch,2,3,3
+Garnet Rapier,8,163,Arms,Unburied Treasures,Raw Island Garnet,Island Copper Ore,Island Tinsand,2,3,3
+Spruce Round Shield,8,163,Attire,Woodworks,Island Spruce Log,Island Copper Ore,Island Stone,2,3,3
+Shark Oil,8,163,Sundries,Marine Merchandise,Island Hammerhead,Island Laver,Island Sap,2,3,3
+Silver Ear Cuffs,8,163,Accessories,Metalworks,Island Silver Ore,Island Tinsand,Island Coral,2,3,3
+Pickled Radish,8,124,Preserved Food,None,Island Radish,Island Apple,Island Sugarcane,4,2,2
+Iron Axe,8,86,Arms,Metalworks,Island Iron Ore,Island Log,Island Sand,3,3,2
+Quartz Ring,8,86,Accessories,Unburied Treasures,Island Quartz,Island Iron Ore,Island Stone,3,3,2
+Porcelain Vase,8,86,Sundries,Unburied Treasures,Island Leucogranite,Island Quartz,Island Clay,3,3,2
+Bed,8,144,Furnishings,Textiles,Sanctuary Fur,Island Cotton Boll,Island Log,4,2,2
+Scale Fingers,8,144,Attire,Creature Creations,Sanctuary Carapace,Island Iron Ore,Island Cotton Boll,4,2,2
+Crook,8,144,Arms ,Woodworks,Sanctuary Fang,Island Quartz,Island Log,4,2,2
